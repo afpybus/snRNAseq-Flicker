@@ -8,3 +8,8 @@ Seurat Objects/
 *.csv
 *.rda
 *.html
+Azimuth/
+Pseudobulk Data/
+R Data/
+snRNAseq_Flicker_files
+*.xlsx
